@@ -12,8 +12,8 @@
 - **Copy & Share:** Quickly copy translated text or share via apps and messages  
 
 <p align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
+  <img width="250" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
+  <img width="250" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
 </p>
 
 ---
@@ -24,8 +24,8 @@
 - **Voice Playback:** Hear translated speech in a native-like accent  
 
 <p align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
+  <img width="250" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
+  <img width="250" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
 </p>
 
 ---
@@ -36,8 +36,8 @@
 - **Multi-Language Scans:** Scan menus, signs, documents, and more  
 
 <p align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
+  <img width="250" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
+  <img width="250" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
 </p>
 
 ---
@@ -48,8 +48,8 @@
 - **Favorites & Tags:** Mark important translations for quick access  
 
 <p align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
+  <img width="250" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
+  <img width="250" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
 </p>
 
 ---
@@ -60,8 +60,8 @@
 - **Reliable in Remote Areas:** Designed for travelers and field use  
 
 <p align="center">
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
-  <img width="360" height="800" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
+  <img width="250" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
+  <img width="250" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
 </p>
 
 ---
