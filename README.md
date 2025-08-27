@@ -10,38 +10,53 @@
 
 - **Instant Text Translation:** Translate between 100+ languages  
 - **Auto Language Detection:** Detects source language automatically  
-- **Copy & Share:** Quickly copy translated text or share via apps and messages
+- **Copy & Share:** Quickly copy translated text or share via apps and messages  
 
-- <img width="360" height="800" alt="Group 1597883180" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
-<img width="360" height="839" alt="Group 1597883179" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
+<p align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
+  <img width="360" height="839" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
+</p>
 
+---
 
 ### 🎤 Speech Translation
 
 - **Real-Time Voice Translation:** Speak into the mic and get live translation  
 - **Dual-Language Mode:** Perfect for conversations between two people  
-- **Voice Playback:** Hear translated speech in a native-like accent
+- **Voice Playback:** Hear translated speech in a native-like accent  
 
-- <img width="360" height="800" alt="Group 1597883183" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
+<p align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
+</p>
 
+---
 
 ### 📷 Image & Camera Translation
 
 - **Photo Translation:** Translate text captured from images or camera in real time  
 - **OCR Support:** Extracts and translates printed or handwritten text from images  
-- **Multi-Language Scans:** Scan menus, signs, documents, and more
+- **Multi-Language Scans:** Scan menus, signs, documents, and more  
 
-- <img width="360" height="800" alt="Group 1597883182" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
+<p align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
+</p>
 
+---
 
 ### 🕓 Translation History
 
 - **Saved Translations:** Automatically stores all translations for future use  
 - **Searchable History:** Quickly look up past translations by keyword or date  
-- **Favorites & Tags:** Mark important translations for quick access
+- **Favorites & Tags:** Mark important translations for quick access  
 
-- 
-<img width="360" height="800" alt="Group 1597883184" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
+<p align="center">
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/988abbee-1068-4ea2-a3e0-58c054b8e4c9" />
+  <img width="360" height="800" src="https://github.com/user-attachments/assets/c698fe72-c09c-4251-ba98-0a8393fe10ee" />
+</p>
+
+---
 
 ### 🌍 Offline Translation Support
 
@@ -67,4 +82,3 @@ We created **TranslateDSC** — an all-in-one translation companion.
 - Saved translation history with search and tagging  
 - Built-in offline capabilities for seamless travel and communication  
 - Designed for users who value both convenience and accuracy  
-
