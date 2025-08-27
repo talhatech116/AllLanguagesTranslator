@@ -52,20 +52,6 @@
   <img width="250" src="https://github.com/user-attachments/assets/f4fa00ae-eb5b-4268-a90c-e15502ed2c60" />
 </p>
 
----
-
-### 🌍 Offline Translation Support
-- **Download Language Packs:** Translate text and speech without internet  
-- **Lightweight Packs:** Optimized downloads to save space  
-- **Reliable in Remote Areas:** Designed for travelers and field use  
-
-<p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/6e9a64b4-97ce-4739-ba57-c4c30fa03c69" />
-  <img width="250" src="https://github.com/user-attachments/assets/9b5364ba-7f37-4c33-a86a-e1e2e3794832" />
-</p>
-
----
-
 ## 📚 Case Study: Empowering Global Communication
 
 ### 🧩 The Problem
